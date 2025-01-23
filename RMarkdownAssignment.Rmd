@@ -1,0 +1,45 @@
+---
+title: 'RMarkdown:  In Class Assignment'
+author: "Nicholas Solis"
+date: "Data 2401"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# In-class Activity, Markdown
+
+## Wise Words
+
+*"stay young, get numb, keep dreaming"* [Father John Misty's "*Screamland Lyrics*"](https://genius.com/Father-john-misty-screamland-lyrics)
+
+## My Semester
+
+| *CHEM 2*           | *Linear Alg*  | *DISC Math*      | *DATA*              |
+|:-------------------|:--------------|:-----------------|:--------------------|
+| **chem 1308**      | **math 2422** | **math 2305-03** | **data 2401**       |
+| Vishakha Shembekar | Edwin Tecarro | Mukesh Kumar     | Katherine Shoemaker |
+
+## I Recommend
+
+-   *Lana Del Rey*
+
+-   She is profound, remarkable, and otherworldly. She is our "living legend"
+
+-   I Spent \$1,900 for her concert in *Austin, Texas*. I waited in **98 degree heat** for **six hours** to get barricade for that concert
+
+### Lana Del Rey
+
+> "if i could be more like you, i would- but i cant and im glad about that"
+
+-   Ultraviolence
+-   Norman Fking Rockwell
+-   Lust for Life
+    -   ft. the weekend
+    -   ft. sean lennon
+
+Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists!
+
+**Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
